@@ -1,0 +1,15 @@
+.rating {
+    font-size: 30px;
+  }
+  
+  .star {
+    cursor: pointer;
+    color: gray;
+    transition: color 0.5s;
+  }
+  
+  .average-rating {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
